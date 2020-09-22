@@ -1,4 +1,4 @@
-<h2 align="center">Theme_Me</h2>
+<h2 align="center">Theme_Company</h2>
 
 ___
 
